@@ -103,10 +103,8 @@ User Browser                  Web Server (PHP)                   MySQL
 ├── project.php          # Project workspace — scan history & start scan
 ├── scan-details.php     # Analytics — KPI cards, results table, CSV export
 ├── install.php          # Guided installation wizard (4 steps)
-├── migrate.php          # One-time migration helper
 ├── ajax.php             # Centralized AJAX handler + crawler engine
 ├── database.sql         # Schema reference
-├── migration.sql        # Schema migration script
 ├── css/
 │   └── app.css          # Neo-Brutalism custom styles
 └── js/
